@@ -1,4 +1,4 @@
-# -sms-bot
+# sms-bot
 
 
 Projeto SMS Bot
